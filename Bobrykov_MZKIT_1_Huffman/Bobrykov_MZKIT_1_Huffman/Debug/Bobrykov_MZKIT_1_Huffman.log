@@ -1,0 +1,6 @@
+﻿  Bobrykov_MZKIT_1_Huffman.cpp
+C:\Users\slipk\source\repos\Bobrykov_MZKIT_1_Huffman\Bobrykov_MZKIT_1_Huffman\Bobrykov_MZKIT_1_Huffman.cpp(164,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\slipk\source\repos\Bobrykov_MZKIT_1_Huffman\Bobrykov_MZKIT_1_Huffman\Bobrykov_MZKIT_1_Huffman.cpp(172,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\slipk\source\repos\Bobrykov_MZKIT_1_Huffman\Bobrykov_MZKIT_1_Huffman\Bobrykov_MZKIT_1_Huffman.cpp(220,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\slipk\source\repos\Bobrykov_MZKIT_1_Huffman\Bobrykov_MZKIT_1_Huffman\Bobrykov_MZKIT_1_Huffman.cpp(226,17): warning C4018: '<': signed/unsigned mismatch
+  Bobrykov_MZKIT_1_Huffman.vcxproj -> C:\Users\slipk\source\repos\Bobrykov_MZKIT_1_Huffman\Debug\Bobrykov_MZKIT_1_Huffman.exe
